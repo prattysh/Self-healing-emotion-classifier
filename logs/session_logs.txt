@@ -1,0 +1,8 @@
+[2025-06-25 16:25:48] Input: I’m feeling really anxious about my exams.
+[2025-06-25 16:25:48] Initial Prediction: fear | Confidence: 0.94
+[2025-06-25 16:25:48] Prediction accepted without fallback. Final Label: fear
+[2025-06-25 16:25:48] --------------------------------------------------
+[2025-06-25 16:27:23] Input: I’ve never felt so close to someone before.
+[2025-06-25 16:27:23] Initial Prediction: love | Confidence: 0.81
+[2025-06-25 16:27:23] Prediction accepted without fallback. Final Label: love
+[2025-06-25 16:27:23] --------------------------------------------------
