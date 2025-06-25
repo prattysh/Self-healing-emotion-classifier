@@ -1,0 +1,6 @@
+logs/
+*.tfevents.*
+*.bin
+__pycache__/
+*.zip
+.env
